@@ -1,0 +1,266 @@
+Mouse pointer location: x = 357, y = 202
+Mouse pointer location: x = 358, y = 204
+Mouse pointer location: x = 362, y = 207
+Mouse pointer location: x = 363, y = 209
+Mouse pointer location: x = 365, y = 212
+Mouse pointer location: x = 366, y = 215
+Mouse pointer location: x = 366, y = 220
+Mouse pointer location: x = 366, y = 223
+Mouse pointer location: x = 366, y = 227
+Mouse pointer location: x = 366, y = 230
+Mouse pointer location: x = 365, y = 233
+Mouse pointer location: x = 364, y = 235
+Mouse pointer location: x = 360, y = 239
+Mouse pointer location: x = 357, y = 241
+Mouse pointer location: x = 350, y = 244
+Mouse pointer location: x = 341, y = 249
+Mouse pointer location: x = 330, y = 253
+Mouse pointer location: x = 318, y = 258
+Mouse pointer location: x = 306, y = 260
+Mouse pointer location: x = 294, y = 262
+Mouse pointer location: x = 283, y = 264
+Mouse pointer location: x = 272, y = 264
+Mouse pointer location: x = 264, y = 265
+Mouse pointer location: x = 256, y = 265
+Mouse pointer location: x = 248, y = 264
+Mouse pointer location: x = 242, y = 262
+Mouse pointer location: x = 236, y = 260
+Mouse pointer location: x = 231, y = 257
+Mouse pointer location: x = 228, y = 254
+Mouse pointer location: x = 224, y = 250
+Mouse pointer location: x = 220, y = 245
+Mouse pointer location: x = 219, y = 241
+Mouse pointer location: x = 217, y = 235
+Mouse pointer location: x = 215, y = 229
+Mouse pointer location: x = 214, y = 224
+Mouse pointer location: x = 213, y = 218
+Mouse pointer location: x = 212, y = 213
+Mouse pointer location: x = 212, y = 206
+Mouse pointer location: x = 212, y = 200
+Mouse pointer location: x = 213, y = 195
+Mouse pointer location: x = 215, y = 190
+Mouse pointer location: x = 217, y = 184
+Mouse pointer location: x = 222, y = 179
+Mouse pointer location: x = 227, y = 174
+Mouse pointer location: x = 233, y = 170
+Mouse pointer location: x = 238, y = 168
+Mouse pointer location: x = 241, y = 166
+Mouse pointer location: x = 243, y = 165
+Mouse pointer location: x = 244, y = 164
+Mouse pointer location: x = 245, y = 164
+Mouse pointer location: x = 247, y = 163
+Mouse pointer location: x = 248, y = 162
+Mouse pointer location: x = 251, y = 162
+Mouse pointer location: x = 253, y = 160
+Mouse pointer location: x = 256, y = 159
+Mouse pointer location: x = 260, y = 157
+Mouse pointer location: x = 264, y = 155
+Mouse pointer location: x = 269, y = 153
+Mouse pointer location: x = 274, y = 152
+Mouse pointer location: x = 311, y = 151
+Mouse pointer location: x = 313, y = 153
+Mouse pointer location: x = 316, y = 155
+Mouse pointer location: x = 319, y = 157
+Mouse pointer location: x = 321, y = 161
+Mouse pointer location: x = 323, y = 164
+Mouse pointer location: x = 325, y = 167
+Mouse pointer location: x = 330, y = 203
+Mouse pointer location: x = 330, y = 206
+Mouse pointer location: x = 329, y = 208
+Mouse pointer location: x = 327, y = 211
+Mouse pointer location: x = 326, y = 213
+Mouse pointer location: x = 325, y = 216
+Mouse pointer location: x = 323, y = 218
+Mouse pointer location: x = 319, y = 222
+Mouse pointer location: x = 315, y = 224
+Mouse pointer location: x = 309, y = 228
+Mouse pointer location: x = 301, y = 233
+Mouse pointer location: x = 292, y = 236
+Mouse pointer location: x = 282, y = 240
+Mouse pointer location: x = 271, y = 243
+Mouse pointer location: x = 261, y = 246
+Mouse pointer location: x = 249, y = 249
+Mouse pointer location: x = 237, y = 250
+Mouse pointer location: x = 225, y = 252
+Mouse pointer location: x = 215, y = 252
+Mouse pointer location: x = 205, y = 252
+Mouse pointer location: x = 198, y = 250
+Mouse pointer location: x = 192, y = 247
+Mouse pointer location: x = 187, y = 243
+Mouse pointer location: x = 184, y = 240
+Mouse pointer location: x = 180, y = 235
+Mouse pointer location: x = 178, y = 232
+Mouse pointer location: x = 176, y = 227
+Mouse pointer location: x = 176, y = 223
+Mouse pointer location: x = 176, y = 218
+Mouse pointer location: x = 176, y = 213
+Mouse pointer location: x = 177, y = 210
+Mouse pointer location: x = 178, y = 205
+Mouse pointer location: x = 181, y = 202
+Mouse pointer location: x = 182, y = 200
+Mouse pointer location: x = 185, y = 197
+Mouse pointer location: x = 189, y = 194
+Mouse pointer location: x = 195, y = 189
+Mouse pointer location: x = 202, y = 186
+Mouse pointer location: x = 210, y = 183
+Mouse pointer location: x = 220, y = 180
+Mouse pointer location: x = 230, y = 179
+Mouse pointer location: x = 239, y = 178
+Mouse pointer location: x = 248, y = 178
+Key pressed: j
+Mouse pointer location: x = 294, y = 201
+Mouse pointer location: x = 294, y = 202
+Mouse pointer location: x = 293, y = 203
+Mouse pointer location: x = 293, y = 204
+Mouse pointer location: x = 292, y = 204
+Mouse pointer location: x = 292, y = 205
+Key pressed: m
+Mouse pointer location: x = 291, y = 205
+Mouse pointer location: x = 290, y = 205
+Mouse pointer location: x = 290, y = 204
+Mouse pointer location: x = 289, y = 204
+Key pressed: k
+Key pressed: o
+Key pressed: p
+Mouse pointer location: x = 289, y = 203
+Mouse pointer location: x = 289, y = 202
+Key pressed: k
+Key pressed: j
+Key pressed: u
+Key pressed: j
+Key pressed: y
+Key pressed: ı
+Key pressed: l
+Key pressed: k
+Key pressed: l
+Key pressed: ç
+Key pressed: ç
+Key pressed: ö
+Key pressed: k
+Key pressed: j
+Key pressed: u
+Key pressed: j
+Key pressed: j
+Key pressed: h
+Mouse pointer location: x = 278, y = 210
+Mouse pointer location: x = 259, y = 223
+Mouse pointer location: x = 238, y = 234
+Mouse pointer location: x = 224, y = 240
+Mouse pointer location: x = 205, y = 244
+Mouse pointer location: x = 190, y = 245
+Mouse pointer location: x = 174, y = 245
+Mouse pointer location: x = 156, y = 242
+Mouse pointer location: x = 137, y = 236
+Mouse pointer location: x = 117, y = 229
+Mouse pointer location: x = 101, y = 220
+Mouse pointer location: x = 87, y = 210
+Mouse pointer location: x = 76, y = 202
+Mouse pointer location: x = 66, y = 192
+Mouse pointer location: x = 57, y = 182
+Mouse pointer location: x = 49, y = 172
+Mouse pointer location: x = 42, y = 161
+Mouse pointer location: x = 37, y = 151
+Mouse pointer location: x = 33, y = 142
+Mouse pointer location: x = 30, y = 135
+Mouse pointer location: x = 29, y = 131
+Mouse pointer location: x = 28, y = 129
+Mouse pointer location: x = 28, y = 126
+Mouse pointer location: x = 29, y = 126
+Mouse pointer location: x = 32, y = 124
+Mouse pointer location: x = 39, y = 121
+Mouse pointer location: x = 52, y = 118
+Mouse pointer location: x = 71, y = 112
+Mouse pointer location: x = 106, y = 102
+Mouse pointer location: x = 141, y = 93
+Mouse pointer location: x = 179, y = 84
+Mouse pointer location: x = 215, y = 81
+Mouse pointer location: x = 251, y = 81
+Key pressed: i
+Key pressed: l
+Key pressed: a
+Key pressed: y
+Key pressed: d
+Key pressed: a
+Key pressed: >
+Key pressed: 3
+Key pressed: m
+Key pressed: e
+Key pressed: r
+Key pressed: v
+Key pressed: e
+Key pressed: <
+Key pressed: 3
+Key pressed: h
+Key pressed: i
+Key pressed: l
+Key pressed: a
+Key pressed: l
+Mouse pointer location: x = 350, y = 104
+Mouse pointer location: x = 349, y = 110
+Mouse pointer location: x = 347, y = 117
+Mouse pointer location: x = 339, y = 151
+Mouse pointer location: x = 338, y = 155
+Mouse pointer location: x = 336, y = 161
+Mouse pointer location: x = 335, y = 164
+Mouse pointer location: x = 334, y = 168
+Mouse pointer location: x = 336, y = 201
+Mouse pointer location: x = 337, y = 205
+Mouse pointer location: x = 338, y = 209
+Mouse pointer location: x = 338, y = 213
+Mouse pointer location: x = 339, y = 217
+Mouse pointer location: x = 340, y = 222
+Mouse pointer location: x = 342, y = 226
+Mouse pointer location: x = 342, y = 230
+Mouse pointer location: x = 343, y = 232
+Mouse pointer location: x = 343, y = 235
+Mouse pointer location: x = 344, y = 237
+Mouse pointer location: x = 344, y = 238
+Mouse pointer location: x = 345, y = 239
+Mouse pointer location: x = 345, y = 240
+Mouse pointer location: x = 345, y = 241
+Mouse pointer location: x = 345, y = 242
+Mouse pointer location: x = 345, y = 243
+Mouse pointer location: x = 345, y = 244
+Mouse pointer location: x = 346, y = 245
+Mouse pointer location: x = 347, y = 246
+Mouse pointer location: x = 347, y = 247
+Mouse pointer location: x = 348, y = 247
+Mouse pointer location: x = 349, y = 247
+Mouse pointer location: x = 350, y = 247
+Mouse pointer location: x = 351, y = 247
+Mouse pointer location: x = 352, y = 247
+Mouse pointer location: x = 353, y = 247
+Mouse pointer location: x = 354, y = 247
+Mouse pointer location: x = 356, y = 247
+Mouse pointer location: x = 357, y = 247
+Mouse pointer location: x = 359, y = 247
+Mouse pointer location: x = 360, y = 247
+Mouse pointer location: x = 361, y = 247
+Mouse pointer location: x = 362, y = 247
+Mouse pointer location: x = 364, y = 247
+Mouse pointer location: x = 365, y = 246
+Mouse pointer location: x = 367, y = 246
+Mouse pointer location: x = 369, y = 246
+Mouse pointer location: x = 370, y = 246
+Mouse pointer location: x = 371, y = 245
+Mouse pointer location: x = 373, y = 245
+Mouse pointer location: x = 374, y = 245
+Mouse pointer location: x = 376, y = 245
+Mouse pointer location: x = 377, y = 244
+Mouse pointer location: x = 378, y = 244
+Mouse pointer location: x = 379, y = 244
+Mouse pointer location: x = 380, y = 244
+Mouse pointer location: x = 380, y = 247
+Mouse pointer location: x = 380, y = 250
+Mouse pointer location: x = 380, y = 253
+Mouse pointer location: x = 380, y = 255
+Mouse pointer location: x = 379, y = 258
+Mouse pointer location: x = 379, y = 260
+Mouse pointer location: x = 378, y = 262
+Mouse pointer location: x = 378, y = 265
+Mouse pointer location: x = 377, y = 267
+Mouse pointer location: x = 376, y = 271
+Mouse pointer location: x = 375, y = 273
+Mouse pointer location: x = 374, y = 275
+Mouse pointer location: x = 373, y = 277
+Mouse pointer location: x = 372, y = 279
